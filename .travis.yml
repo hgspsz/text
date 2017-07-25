@@ -11,5 +11,6 @@ install:
 # Build the website
 script:
   - git clone https://github.com/hgspsz/theme.git tmp
-  - mv -r tmp ./
+  - cp -r tmp ./
+  - rm -r -f tmp
   - ls -a
