@@ -10,5 +10,5 @@ install:
 
 # Build the website
 script:
-  - cd src
+  - git clone https://github.com/hgspsz/theme.git ./
   - ../binaries/hugo --theme=ghoust
