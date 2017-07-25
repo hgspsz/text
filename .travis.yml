@@ -4,13 +4,15 @@ addons:
     packages:
       - python-pygments
 
+language: go
 # Clean and don't fail
 install:
   - rm -rf public || exit 0
+  - go get -v github.com/spf13/hugo
 
 # Build the website
 script:
   - git clone https://github.com/hgspsz/theme.git tmp
   - cp -r tmp/* ./
   - rm -r -f tmp
-  - binaries/hugo 
+  - hugo
