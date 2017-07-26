@@ -18,5 +18,4 @@ script:
 - rm -r -f tmp
 - hugo
 after_success:
-- filesChanged=find content/*
--  for f in $filesChanged	do	echo "Uploading $f"	curl --ftp-create-dirs -T $f -u $FTP_USER:$FTP_PASSWORD ftp://plaveoo.hu/www/$f done
+- ncftpput -R -v -u $FTP_USER -p $FTP_PASSWORD plaveoo.hu /public_html public
