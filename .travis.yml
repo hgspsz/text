@@ -17,4 +17,4 @@ script:
 - rm -r -f tmp
 - hugo
 after_success:
-"find . -type f -exec curl -u $FTP_USER:$FTP_PASSWORD --ftp-create-dirs -T {} FTP_ADDRESS/public_html/{} \;"
+- find . -type f -exec curl -u $FTP_USER:$FTP_PASSWORD --ftp-create-dirs -T {} FTP_ADDRESS/public_html/{} \;
