@@ -30,7 +30,8 @@ ___
   - Sárközi MMA team (ketrecharc)
   - SZEOL (labdarúgás)
 
-***
+
+{{< figure class="image main" src="/images/vivocsapat.jpg" >}} 
 
 ## Sport
 
