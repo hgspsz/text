@@ -6,3 +6,4 @@ draft: false
 
 ___
 
+[Aktuális kurzushoz tatozó diasorokat innen tölthetitek le :) ]( https://drive.google.com/drive/folders/0Bzg1_CWI6ASTaElORVFRbWU3cEU)
