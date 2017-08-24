@@ -3,7 +3,6 @@ title: "Önéletrajz"
 date: 2017-08-10T20:03:04+02:00
 draft: false
 ---
-___
 
 {{< figure class="image main" alt="Profilkép" src="/images/IMG_6312.png" >}}
 
