@@ -24,21 +24,19 @@ draft: false
 - Autogén Tréning módszerspecifikus képzés (100 óra, kiképzők: Dr. Budavári Ágota illetve Dr. Szombathelyi Éva) - kiképző
 - Gyermek sportpszichiátria képzés (2014) SE-TSK
 
-### Szakmaitapasztalat
+### Szakmai tapasztalat
 
-Egyetemi oktatói tevékenység: SZTE (2006-2017), KRE (2017-)
-Szegedi Tudományegyetem, Budapest Média Intézet - óraadó (2007 - 2010)
-Imaginációs-meditációs saját élmény (220 óra, kiképző: Dr. Budavári Ágota)
-Szakmai gyakorlat, Szent János Kórház (Budapest) Pszichiátria
-2005. június - augusztus (90 óra)
-2006. augusztus - 2007. február (heti 1 óra)
-Egyéni sportpszichológiai tanácsadás 2007 óta
-Egyéb
+- Egyetemi oktatói tevékenység: SZTE (2006-2017), KRE (2017-)
+- Szegedi Tudományegyetem, Budapest Média Intézet - óraadó (2007 - 2010)
+- Imaginációs-meditációs saját élmény (220 óra, kiképző: Dr. Budavári Ágota)
+- Szakmai gyakorlat, Szent János Kórház (Budapest) Pszichiátria
+- Egyéni sportpszichológiai tanácsadás 2007 óta
 
 ### Kitüntetés
 
 - MTA - Pro Scientia Aranyérem Kitüntetés (2005)
 - Kiváló TDK szervezői díj (2014)
+- Mestertanár (2017)
 
 ### Ösztöndíj
 
