@@ -5,6 +5,8 @@ draft: false
 ---
 ___
 
+{{< figure class="image main" alt="Sportpszichológia" src="/images/kerekasztal.jpg" >}}
+
 ## Sportpszichológia
 
 - SE-TSK, Sportpszichológus képzés (2007 - 2009) - sport szakpszichológus
@@ -31,7 +33,7 @@ ___
   - SZEOL (labdarúgás)
 
 
-{{< figure class="image main" src="/images/vivocsapat.jpg" >}} 
+{{< figure class="image main" alt="Sport eredmény" src="/images/vivocsapat.jpg" >}} 
 
 ## Sport
 
