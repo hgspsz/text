@@ -9,8 +9,8 @@ ___
 
 - Sportpszichológiai tanácsadás 2007 óta
 - [KRE-BTK, Pszichológia Intézet](http://www.kre.hu/btk/index.php/2015-10-20-11-09-16/2015-10-20-11-15-36/pszichologiai-intezet.html) - egyetemi adjunktus 
-- [A Pro Scientia Aranyérmesek Társasága (PSAT)](www.psat.hu) - elnök
-- [Országos Tudományos Diákköri Tanács (OTDT)](www.otdt.hu) - elnökségi tag
+- [A Pro Scientia Aranyérmesek Társasága (PSAT)](http://www.psat.hu) - elnök
+- [Országos Tudományos Diákköri Tanács (OTDT)](http://www.otdt.hu) - elnökségi tag
 
 ### Tanulmányok, végzettségek
 
