@@ -5,6 +5,8 @@ draft: false
 ---
 ___
 
+{{< figure class="image main" alt="Profilkép" src="/images/IMG_6312.jpg" >}}
+
 ### Munkahelyek, tisztségek
 
 - Sportpszichológiai tanácsadás 2007 óta
