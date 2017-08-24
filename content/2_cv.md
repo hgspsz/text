@@ -5,7 +5,7 @@ draft: false
 ---
 ___
 
-{{< figure class="image main" alt="Profilkép" src="/images/IMG_6312.jpg" >}}
+{{< figure class="image main" alt="Profilkép" src="/images/IMG_6312.png" >}}
 
 ### Munkahelyek, tisztségek
 
