@@ -21,6 +21,7 @@ ___
   - Csomorkány SE (vívóklub)
   - ELIOS Kispest (kézilabda)
   - ÉTC vívó szakosztály
+  - Gaál Zsóka (sakkozó)
   - Karnok Marcell (kajakos)
   - Magyar Evezős Szövetség 
   - Magyar Sakk Szövetség
