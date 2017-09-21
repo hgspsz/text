@@ -28,6 +28,7 @@ ___
   - Major Endre (paralimpikon, asztaliteniszező)
   - Matyasovszki Dániel (evezős)
   - Olasz Anna (olimpikon, hosszútávúszó)
+  - Pápai Balázs (tollaslabdázó)
   - Papp Petra (sakkozó)
   - Pozsár Bence (evezős)
   - Sárközi MMA team (ketrecharc)
