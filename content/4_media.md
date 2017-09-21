@@ -7,8 +7,8 @@ draft: false
 
 [Csak a kerekasztal! (2016)](http://mindset.co.hu/nehany-jatekos-titokban-jar-pszichologushoz-kerekasztal-a-xv-forum-humanumon/)
 
-[Csak az ABBA! (2017](http://szegedma.hu/hir/szeged/2017/05/abba-a-labdarugasban-is.html)
+[Csak az ABBA! (2017)](http://szegedma.hu/hir/szeged/2017/05/abba-a-labdarugasban-is.html)
 
-[Csak a háló! (2017](http://index.hu/sport/2017/fina_vizesvb_budapest/2017/07/16/olasz_anna_nyilatkozat_somenek_onon_10_km_nyiltvizi_uszas/)
+[Csak a háló! (2017)](http://index.hu/sport/2017/fina_vizesvb_budapest/2017/07/16/olasz_anna_nyilatkozat_somenek_onon_10_km_nyiltvizi_uszas/)
 
-[Csak a sakk! (2017](http://www.nemzetisport.hu/utanpotlassport/Sakk_a_10_eves_Gaal_Zsoka_masodszor_nyert_ezustot_korcsoportos_vb-n-2589629)
+[Csak a sakk! (2017)](http://www.nemzetisport.hu/utanpotlassport/Sakk_a_10_eves_Gaal_Zsoka_masodszor_nyert_ezustot_korcsoportos_vb-n-2589629)
