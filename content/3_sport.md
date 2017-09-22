@@ -22,7 +22,8 @@ ___
   - ELIOS Kispest (kézilabda)
   - ÉTC vívó szakosztály
   - Gaál Zsóka (sakkozó)
-  - Karnok Marcell (kajakos)
+  - Karnok Marcell (kajakozó)
+  - Kocsis Ádám (kenus)
   - Magyar Evezős Szövetség 
   - Magyar Sakk Szövetség
   - Major Endre (paralimpikon, asztaliteniszező)
