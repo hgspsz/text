@@ -47,8 +47,8 @@ ___
 - Felnőtt Magyar Országos Bajnokság 8. hely (párbajtőr, egyéni) 2006
 - Magyar válogatott kerettag (férfi párbajtőr) 2008
 - Felnőtt Magyar Országos Bajnok (párbajtőr, csapat) 2008
-  - Imre Géza 14 évet várt a vívóaranyra ([origo] Sport)
-  - Vívás: a Vasas férfi kardcsapata megvédte a címét az ob-n (Nemzeti Sport)
+  - http://www.origo.hu/sport/egyeni/20081214-parbajtor-vivo-ob-imre-geza-14-evet-vart-az-aranyra.html
+  - http://www.nemzetisport.hu/egyeb_egyeni/20081214/vivas_a_vasas_ferfi_kardcsapata_megvedte_a_cimet_az_ob-n
 - Felnőtt Magyar Országos Bajnoki ezüstérmes (párbajtőr, csapat) 2015
   - http://www.nemzetisport.hu/egyeb_egyeni/vivas-a-bvsc-noi-es-a-vasas-ferfi-kardozoi-megvedtek-cimuket-2456827
 - Legjobb idényvégi világranglista helyezés: 282. 
