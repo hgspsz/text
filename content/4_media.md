@@ -25,4 +25,4 @@ draft: false
 
 [Csak a sakk! (2017)](http://www.nemzetisport.hu/utanpotlassport/Sakk_a_10_eves_Gaal_Zsoka_masodszor_nyert_ezustot_korcsoportos_vb-n-2589629)
 
-[Csak a Szertár (2017, interjú)](https://soundcloud.com/szertar/xciv-sakktol-a-ketrecharcig-sportpszichologia-a-gyakorlatban)
+[Csak a Szertár! (2017, interjú)](https://soundcloud.com/szertar/xciv-sakktol-a-ketrecharcig-sportpszichologia-a-gyakorlatban)
