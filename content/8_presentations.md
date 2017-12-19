@@ -6,4 +6,6 @@ draft: false
 
 ___
 
-[Aktuális kurzushoz tatozó diasorokat innen tölthetitek le :) ]( https://drive.google.com/drive/folders/0Bzg1_CWI6ASTaElORVFRbWU3cEU)
+[Az aktuális oktatási kurzushoz tatozó diasorok innen tölthetőek le]( https://drive.google.com/drive/folders/0Bzg1_CWI6ASTaElORVFRbWU3cEU)
+
+[Innen pedig a nyilvános előadáoké](https://drive.google.com/drive/folders/1Q5-3iSD1iFlYq4V-L3ppPkASQwEi4nWZ)
