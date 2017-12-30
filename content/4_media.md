@@ -9,6 +9,8 @@ draft: false
 
 [Csak az ABBA! (2017)](http://szegedma.hu/hir/szeged/2017/05/abba-a-labdarugasban-is.html)
 
+[Csak a Budapesti Arcok! (2015, interjú a Juventus rádióban)](https://drive.google.com/drive/folders/1wncsPZ2WoJWv0PzQKKWkm6uejxqjMzk1)
+
 [Csak a háló! (2017)](http://index.hu/sport/2017/fina_vizesvb_budapest/2017/07/16/olasz_anna_nyilatkozat_somenek_onon_10_km_nyiltvizi_uszas/)
 
 [Csak a Jégkirálynő! (2017)](https://www.beol.hu/helyi-ertek/a-het-embere/felult-tronra-jegkiralyno-1107125/)
