@@ -15,13 +15,11 @@ draft: false
 
 [Csak a Jégkirálynő! (2017)](https://www.beol.hu/helyi-ertek/a-het-embere/felult-tronra-jegkiralyno-1107125/)
 
-[Csak a KAPSZLI!](http://krekapszli.hu/)
-
 [Csak a Károli!](http://www.kre.hu/btk/index.php/2015-10-20-11-09-16/2015-10-20-11-15-36/pszichologiai-intezet.html)
 
 [Csak a kerekasztal! (2017)](http://szegedma.hu/2017/10/a-magabiztossag-es-az-ovatossag-is-lehet-a-siker-kulcsa)
 
-[Csak a Kispest!](http://kispestkezi.hu/)
+[Csak a Mérő László! (egyik kedvenc írásom az élet értelméről, míg a másik a bemutatkozó szövegem végén van)](http://magyarnarancs.hu/egotripp/teljesitmeny-75791)
 
 [Csak a Mindset! (2017)](http://mindset.co.hu/ahol-a-sport-es-a-szocialpszichologia-talalkozik-dr-harsanyi-gergo-eloadasa-a-szegedi-pszicho-kavehazban/)
 
