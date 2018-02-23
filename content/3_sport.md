@@ -20,7 +20,7 @@ ___
   - Csató István (súlyemelés)
   - Csomorkány SE (vívóklub)
   - Dékány Kinga (vívás)
-  - ELIOS Kispest (kézilabda)
+  - Kispest (kézilabda)
   - ÉTC vívó szakosztály
   - Gaál Zsóka (sakk)
   - Karnok Marcell (kajak)
@@ -34,6 +34,7 @@ ___
   - Papp Petra (sakk)
   - Pozsár Bence (evezés)
   - Sárközi MMA team (ketrecharc)
+  - Szegedi Vizisport Egyesület (kajak/kenu)
   - SZEOL (labdarúgás)
 
 
