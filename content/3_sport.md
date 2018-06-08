@@ -17,7 +17,7 @@ ___
   #### Néhány referencia:
   - AVA Békéscsaba (vívóklub)
   - Barzó Lilla (tenisz)
-  - Csató István (súlyemelés)
+  - Csató István (súlyemelés) 
   - Csomorkány SE (vívóklub)
   - Dékány Kinga (vívás)
   - ÉTC vívó szakosztály
