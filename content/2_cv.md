@@ -9,11 +9,10 @@ draft: false
 ### Munkahelyek, tisztségek
 
 - Sportpszichológiai tanácsadás 2007 óta
-- Alföld Vívó Akadémia - sportpszichológus
 - [KRE-BTK, Pszichológia Intézet](http://www.kre.hu/btk/index.php/2015-10-20-11-09-16/2015-10-20-11-15-36/pszichologiai-intezet.html) - egyetemi adjunktus 
+- Alföld Vívó Akadémia - sportpszichológus
+- Orosházi Női Kézilabda Club - sportpszichológus
 - Szegedi Vizisport Egyesület - sportpszichológus
-- [A Pro Scientia Aranyérmesek Társasága (PSAT)](http://www.psat.hu) - elnök
-- [Országos Tudományos Diákköri Tanács (OTDT)](http://www.otdt.hu) - elnökségi tag
 
 ### Tanulmányok, végzettségek
 
@@ -33,6 +32,8 @@ draft: false
 - Imaginációs-meditációs saját élmény (220 óra, kiképző: Dr. Budavári Ágota)
 - Szakmai gyakorlat, Szent János Kórház (Budapest) Pszichiátria
 - Egyéni sportpszichológiai tanácsadás 2007 óta
+- [A Pro Scientia Aranyérmesek Társasága (PSAT)](http://www.psat.hu) - elnök (2011-2018)
+- [Országos Tudományos Diákköri Tanács (OTDT)](http://www.otdt.hu) - elnökségi tag (2011-2018)
 
 ### Kitüntetés
 
@@ -61,8 +62,8 @@ draft: false
   + "Állandó meghívott” a Pro Scientia Aranyérmesek Társaságának ügyvivő testületi üléseire (2006 - 2008)
   + Ügyvivő testületi tag a Pro Scientia Aranyérmesek Társaságában (2008 - 2010)
   + A Pro Scientia Aranyérmesek Társaságának alelnöke (2010 - 2011)
-  + A Pro Scientia Aranyérmesek Társaságának elnöke (2011 - )
-- OTDT elnökségi tag (2011 - )
+  + A Pro Scientia Aranyérmesek Társaságának elnöke (2011 - 2018)
+- OTDT elnökségi tag (2011 - 2018)
 - A 2009., 2011. 2013. 2015. és 2017. évi OTDK-ra a Pro Scientia Aranyérmesek Társaságának delegáltja a szakmai bizottságokba
 - Pszichológia tagozati koordinátor (OTDK, 2017)
 - A Pro Scientia Aranyérmesek Társaságának konferenciájának főszervezője (Szeged, 2012. november)
