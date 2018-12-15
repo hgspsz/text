@@ -32,6 +32,7 @@ ___
   - Matyasovszki Dániel (evezés)
   - Nagy Bianka (kenu)
   - Olasz Anna (olimpikon, hosszútávúszás)
+  - Orosházi Női Kézilabda Club
   - Pápai Balázs (tollaslabda)
   - Papp Petra (sakk)
   - Pozsár Bence (evezés)
