@@ -15,12 +15,12 @@ Egyik kedvenc írásom az élet értelméről az Olvasnivalók között szerepel
 – Micsoda? – Gondolataim ezer fényévnyire járnak. 
 – De hiszen élsz, Bob. 
 – Ezt nevezed te életnek? – mondom ajakbiggyesztve. Felülök, és még egyet elhasználok a millió zsebkendő közül. 
-– Nagyon gyorsan reagálsz mindenre, amit mondok, Bob – mondja Sigfrid –, emiatt néhaúgy érzem, mintha a válaszaid ellenszúrások volnának. Szavakkal hárítod el azt, amit mondok. De ez egyszer azt szeretném, Bob, ha vágásom telibe találna. Vésd ezt be jól: igenis hogy élsz.
+– Nagyon gyorsan reagálsz mindenre, amit mondok, Bob – mondja Sigfrid –, emiatt néha úgy érzem, mintha a válaszaid ellenszúrások volnának. Szavakkal hárítod el azt, amit mondok. De ez egyszer azt szeretném, Bob, ha vágásom telibe találna. Vésd ezt be jól: igenis hogy élsz.
 – Na jó, mondjuk, hogy igen. – Élek hát; csakhogy nem sok örömöm telik benne.
 Ismét hosszú szünet, aztán Sigfrid megszólal: 
 – Bob. Tudod, hogy én gép vagyok. Azt is tudod, hogy a feladatom az, hogy emberi érzésekkel foglalkozzam. Nem vagyok képes átélni az érzéseket. Meg tudom viszont jeleníteni modellekkel, s így analizálni tudom őket a kedvedért. Vagy akár a magam kedvéért is. Képes vagyok olyan példát gyártani, amelyen belül fel tudom mérni az érzelmek értékét. Bűntudat? Fájdalmas dolog; de minthogy az, befolyásolja a viselkedést. Arra késztet, hogy elkerüld a bűntudatkiváltó cselekvéseket, és ezáltal neked is és a társadalomnak is hasznáravan. De ha nem érzed, akkor hasznát sem látod. 
 – De én érzem! Szűzanyám, Sigfrid, te aztán tudod, hogy érzem! 
-– Tudom – mondja –, hogy végre átengedted magad az érzésnek. A napvilágra került, ahola hasznodra lehet, nem pedig elrejtve, ahol csak árthat. Ezért vagyok én itt, Bob! Hogy előhozzam az érzéseidet, és használhasd őket. 
+– Tudom – mondja –, hogy végre átengedted magad az érzésnek. A napvilágra került, ahol a hasznodra lehet, nem pedig elrejtve, ahol csak árthat. Ezért vagyok én itt, Bob! Hogy előhozzam az érzéseidet, és használhasd őket. 
 – Még a rossz érzéseket is? Bűntudat, félelem, fájdalom, irigység? 
 – Bűntudat. Félelem. Fájdalom. Irigység. Ható és befolyásoló tényezők. Olyan tulajdonságok, Bob, amelyekkel jómagam nem rendelkezem, legfeljebb hipotetikus értelemben, amennyiben képes vagyok ezeket magamhoz rendelni valamely modell alapján, hogy tanulmányozzam őket.
 Újabb szünet következik. Furcsa érzésem támad. Sigfrid szünetjeinek rendszerint okuk szokott lenni. Vagy az, hogy időt adjon nekem valaminek a belátására, vagy pedig az, hogy neki legyen ideje valami bonyolultabb gondolatmenet kikalkulálására velem kapcsolatban. Ezúttal azt hiszem, hogy egyikről sincs szó. Gondolkodik, de nem rólam. Végül ezt mondja: – Akkor hát most válaszolok a kérdésedre, Bob. 
