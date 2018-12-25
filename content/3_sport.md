@@ -34,7 +34,7 @@ ___
   - Olasz Anna (olimpikon, hosszútávúszás)
   - Orosházi Női Kézilabda Club
   - Pápai Balázs (tollaslabda)
-  - Papp Petra (sakk)
+  - Papp Petra (sakk) 
   - Pozsár Bence (evezés)
   - Sárközi MMA team (ketrecharc)
   - Szegedi Vizisport Egyesület (kajak/kenu)
