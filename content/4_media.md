@@ -23,9 +23,7 @@ draft: false
 
 [Csak a Mindset! (2017)](http://mindset.co.hu/ahol-a-sport-es-a-szocialpszichologia-talalkozik-dr-harsanyi-gergo-eloadasa-a-szegedi-pszicho-kavehazban/)
 
-[Csak az OTDT!](http://otdt.hu/)
-
-[Csak a PSAT!](http://psat.hu/)
+[Csak az OTDT! Lelkizés a friss Pro Scientia Aranyérmesek köszöntései közben az MTÁ-n - négy rövid beszéd](https://drive.google.com/drive/u/0/folders/1sb28dpEtOXZNOG9zyiaG6tcB3PuX2PK7?ogsrc=32)
 
 [Csak a sakk! (2017)](http://www.nemzetisport.hu/utanpotlassport/Sakk_a_10_eves_Gaal_Zsoka_masodszor_nyert_ezustot_korcsoportos_vb-n-2589629)
 
