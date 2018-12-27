@@ -21,9 +21,9 @@ draft: false
 
 [Csak a Mérő László! (egyik kedvenc írásom az élet értelméről, míg a másik a bemutatkozó szövegem végén van)](http://magyarnarancs.hu/egotripp/teljesitmeny-75791)
 
-[Csak a Mindset! (2017)](http://mindset.co.hu/ahol-a-sport-es-a-szocialpszichologia-talalkozik-dr-harsanyi-gergo-eloadasa-a-szegedi-pszicho-kavehazban/)
+[Csak a Mindset!(2017)](http://mindset.co.hu/ahol-a-sport-es-a-szocialpszichologia-talalkozik-dr-harsanyi-gergo-eloadasa-a-szegedi-pszicho-kavehazban/)
 
-[Csak az OTDT! Lelkizés a friss Pro Scientia Aranyérmesek köszöntései közben az MTÁ-n - négy rövid beszéd](https://drive.google.com/drive/u/0/folders/1sb28dpEtOXZNOG9zyiaG6tcB3PuX2PK7?ogsrc=32)
+[Csak az OTDT! Lelkizés a friss Pro Scientia Aranyérmesek köszöntéseinek keretében az MTÁ-n - négy rövid beszéd](https://drive.google.com/drive/u/0/folders/1sb28dpEtOXZNOG9zyiaG6tcB3PuX2PK7?ogsrc=32)
 
 [Csak a sakk! (2017)](http://www.nemzetisport.hu/utanpotlassport/Sakk_a_10_eves_Gaal_Zsoka_masodszor_nyert_ezustot_korcsoportos_vb-n-2589629)
 
