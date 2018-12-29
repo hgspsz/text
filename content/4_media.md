@@ -17,7 +17,7 @@ draft: false
 
 [Csak a Károli!](http://www.kre.hu/btk/index.php/2015-10-20-11-09-16/2015-10-20-11-15-36/pszichologiai-intezet.html)
 
-[Csak a kerekasztal! (2017)](http://szegedma.hu/2017/10/a-magabiztossag-es-az-ovatossag-is-lehet-a-siker-kulcsa)
+[Csak a kerekasztal! (2017)](http://szegedma.hu/2017/10/a-magabiztossag-es-az-ovatossag-is-lehet-a-siker-kulcsa) 
 
 [Csak a Mérő László! (egyik kedvenc írásom az élet értelméről, míg a másik a bemutatkozó szövegem végén van)](http://magyarnarancs.hu/egotripp/teljesitmeny-75791)
 
