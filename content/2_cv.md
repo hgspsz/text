@@ -8,7 +8,7 @@ draft: false
 
 ### Munkahelyek, tisztségek
 
-- Sportpszichológiai tanácsadás 2007 óta
+- Sportpszichológiai tanácsadás 2007 óta 
 - [KRE-BTK, Pszichológia Intézet](http://www.kre.hu/btk/index.php/2015-10-20-11-09-16/2015-10-20-11-15-36/pszichologiai-intezet.html) - egyetemi adjunktus 
 - Alföld Vívó Akadémia - sportpszichológus
 - Orosházi Női Kézilabda Club - sportpszichológus
