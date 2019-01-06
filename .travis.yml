@@ -1,7 +1,7 @@
 addons:
   apt:
     packages:
-    - ncftp
+    - lftp
     - python-pygments
 language: go
 env:
@@ -18,4 +18,4 @@ script:
 - rm -r -f tmp
 - hugo
 after_success:
-- cd public && ncftpput -R -v -u $FTP_USER -p $FTP_PASSWORD sftp://plaveoo.hu /public_html .
+- lftp -e "cd public_html; mput *; ls" -u $FTP_USER,$FTP_PASSWORD sftp://plaveoo.hu
