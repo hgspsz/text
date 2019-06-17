@@ -20,10 +20,9 @@ ___
   - Csató István (súlyemelés) 
   - Csomorkány SE (vívóklub)
   - Dékány Kinga (vívás)
-  - ÉTC vívó szakosztály
   - Gaál Zsóka (sakk)
   - Karnok Marcell (kajak)
-  - Kispest (kézilabda)
+  - Kispesti Női Kézilabda Klub (kézilabda)
   - Koch Máté (vívás)
   - Kocsis Ádám (kenu)
   - Magyar Evezős Szövetség 
