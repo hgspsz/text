@@ -28,6 +28,7 @@ ___
   - Kocsis Ádám (kenu)
   - Magyar Evezős Szövetség 
   - Magyar Sakk Szövetség
+  - Magyar Vívó Szövetség
   - Major Endre (paralimpikon, asztalitenisz)
   - Matyasovszki Dániel (evezés)
   - Nagy Bianka (kenu)
