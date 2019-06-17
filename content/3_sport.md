@@ -17,8 +17,7 @@ ___
   #### Néhány referencia:
   - AVA Békéscsaba (vívóklub)
   - Barzó Lilla (tenisz)
-  - Csató István (súlyemelés) 
-  - Csomorkány SE (vívóklub)
+  - Csató István (súlyemelés)
   - Dékány Kinga (vívás)
   - Gaál Zsóka (sakk)
   - Karnok Marcell (kajak)
