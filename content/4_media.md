@@ -5,6 +5,8 @@ draft: false
 ---
 [Csak a 40 legérdekesebb esetem! (előadás, 2019)](https://drive.google.com/drive/folders/119K9BVJhpKxABvSy7WcbV4V5PUyvrMnJ)
 
+[Csak az Aréna! (2018)](https://www.facebook.com/vtvszegedArena/videos/2103896503155603/)
+
 [Csak a Cartman! (2010)](http://www.delmagyar.hu/szeged_hirek/cartman_olyan_mint_darth_vader/2184003/)
 
 [Csak a kerekasztal! (2016)](http://mindset.co.hu/nehany-jatekos-titokban-jar-pszichologushoz-kerekasztal-a-xv-forum-humanumon/)
