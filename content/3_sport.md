@@ -14,8 +14,10 @@ ___
 - Imaginációs-meditációs saját élmény (220 óra)
 - Egyéni sportpszichológiai tanácsadás (2007 óta)
 - Szent János Kórház Pszichiátria: 2005. június – augusztus (90 óra) és 2006. augusztus – 2007. február (heti 1 óra)
+- Magyar Vívó Szövetség: sportpszichológus (2019. április-)
   #### Néhány referencia:
   - AVA Békéscsaba (vívóklub)
+  - Badar Gergő (triatlon)
   - Barzó Lilla (tenisz)
   - Csató István (súlyemelés)
   - Dékány Kinga (vívás)
@@ -44,12 +46,13 @@ ___
 
 ## Sport
 
-- Versenyszerű sportolás (vívás, párbajtőr) több, mint 20 éve
+- Versenyszerű sportolás (vívás, párbajtőr) több, mint 25 éve
 - Korosztályos Magyar Országos Bajnok (férfi párbajtőr Kadet csapat) 1996
 - Egyetemi és Főiskolás Magyar Országos Bajnok (férfi párbajtőr csapat) 1999
 - Felnőtt első osztályú minősítés összesen hét idényben
 - Felnőtt Magyar Országos Bajnokság 8. hely (párbajtőr, egyéni) 2006
 - Magyar válogatott kerettag (férfi párbajtőr) 2008
+- Olimpiai "B" kerettag (2012) http://olimpia.hu/vivas-5
 - Felnőtt Magyar Országos Bajnok (párbajtőr, csapat) 2008
   - http://www.origo.hu/sport/egyeni/20081214-parbajtor-vivo-ob-imre-geza-14-evet-vart-az-aranyra.html
   - http://www.nemzetisport.hu/egyeb_egyeni/20081214/vivas_a_vasas_ferfi_kardcsapata_megvedte_a_cimet_az_ob-n
