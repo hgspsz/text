@@ -6,8 +6,8 @@ draft: false
 
 ___
 
-Gyermekkorom óta versenyszerűen vívok (párbajtőrözök). Voltam felnőtt magyar válogatott kerettag (2008), csapatban Magyar Országos Bajnok (2008) és bajnoki ezüstérmes (2015). 
-Pszichológus diplomámat a Szegedi Tudományegyetemen szereztem (2006), sport szakpszichológusként pedig a Semmelweis Egyetem Testnevelési és Sporttudományi Karán végeztem (2009). Pszichológiából PhD fokozattal rendelkezem, melyet az ELTÉn kaptam 2014-ben. 10 évig tanítottam az SZTE-n pszichológusokat, jelenleg ugyanezt teszem a Károlin egyetemi adjunktusként.
+Gyermekkorom óta versenyszerűen vívok (párbajtőrözök). Voltam felnőtt magyar válogatott kerettag (2008), csapatban Magyar Országos Bajnok (2008) és bajnoki ezüstérmes (2015). 2019 májusában indultam a Veterán Európa-bajnokságon. 2019 áprilisa óta a Magyar Vívó Szövetség alkalmazásában állok mint sportpszichológus.
+Pszichológus diplomámat a Szegedi Tudományegyetemen szereztem (2006), sport szakpszichológusként pedig a Semmelweis Egyetem Testnevelési és Sporttudományi Karán végeztem (2009). Pszichológiából doktori (PhD) fokozattal rendelkezem, melyet az ELTÉn kaptam 2014-ben. 10 évig tanítottam az SZTE-n pszichológusokat, jelenleg ugyanezt teszem a Károlin egyetemi adjunktusként.
 Több mint 10 éve dolgozom sportpszichológusként Budapesten és Szegeden egyaránt. Számos sportág képviselőivel dolgoztam már, illetve teszem ezt jelenleg is kick-boxtól a sakkon át, az úszáson keresztül a ketrecharcig, azonban legtöbbet vívókkal és kajak/kenusokkal foglalkozom. Előfordul, hogy komplett csapatok is alkalmaznak. Alapvetően kétféle helyzetben kérik a segítségem a sportolók/szülők/csapatok. Vagy egy bizonyos sportpszichológiai problémát szeretnének megoldani, vagy általánosságban kérik a segítségem a jobb teljesítmény eléréséhez.
 
 Egyik kedvenc írásom az élet értelméről az Olvasnivalók között szerepel, míg a másikat idemásolom - értelmezését a kitartó olvasóra bízom. :) Fredrik Pohl Átjáró című könyvének (fordította: Nagy Sándor) záró sorai.
