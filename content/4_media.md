@@ -11,9 +11,11 @@ draft: false
 
 [Csak a kerekasztal! (2016)](http://mindset.co.hu/nehany-jatekos-titokban-jar-pszichologushoz-kerekasztal-a-xv-forum-humanumon/)
 
-[Csak az ABBA! (2017)](http://szegedma.hu/hir/szeged/2017/05/abba-a-labdarugasban-is.html)
+[Csak az ABBA! (2017, interjú a Szegedmában)](http://szegedma.hu/hir/szeged/2017/05/abba-a-labdarugasban-is.html)
 
 [Csak a Budapesti Arcok! (2015, interjú a Juventus rádióban)](https://drive.google.com/drive/folders/1wncsPZ2WoJWv0PzQKKWkm6uejxqjMzk1)
+
+[Csak a Galaxis kalauz! (2019, interjú a Klubrádióban)](https://www.klubradio.hu/archivum/galaxis-kalauz-2019-oktober-09-szerda-1500-6339)
 
 [Csak a háló! (2017)](http://index.hu/sport/2017/fina_vizesvb_budapest/2017/07/16/olasz_anna_nyilatkozat_somenek_onon_10_km_nyiltvizi_uszas/)
 
@@ -28,3 +30,5 @@ draft: false
 [Csak az OTDT! Lelkizés a friss Pro Scientia Aranyérmesek éremátadóján az MTÁ-n - négy rövid beszéd (2011, 2013, 2015, 2017)](https://drive.google.com/drive/u/0/folders/1sb28dpEtOXZNOG9zyiaG6tcB3PuX2PK7?ogsrc=32)
 
 [Csak a Szertár! (2017, interjú)](https://soundcloud.com/szertar/xciv-sakktol-a-ketrecharcig-sportpszichologia-a-gyakorlatban)
+
+[Csak a Zsóka! (2019, riportműsor Gaál Zsókával az M2-őn, amiben feltűnök pár mondat erejéig)](https://petofilive.hu/video/2019/09/05/gaal-zsoka-tinisakkbajnok/?fbclid=IwAR3Qk6hKoKkz7mjwEqoVOoDzWZLQpOPhV13P08RWHrDtyXJMwrbgJbVfuiw#)
