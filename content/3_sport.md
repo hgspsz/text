@@ -9,7 +9,7 @@ ___
 
 ## Sportpszichológia
 
-- SE-TSK, Sportpszichológus képzés (2007 - 2009) - sport szakpszichológus
+- SE-TSK, Sportpszichológus képzés (2007 - 2009) - sport szakpszichológus 
 - Autogén Tréning módszerspecifikus képzés (100 óra, kiképzők: Dr. Budavári Ágota, illetve Dr. Szombathelyi Éva) - kiképző
 - Imaginációs-meditációs saját élmény (220 óra)
 - Egyéni sportpszichológiai tanácsadás (2007 óta) 
