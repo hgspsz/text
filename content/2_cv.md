@@ -26,7 +26,7 @@ draft: false
 
 ### Szakmai tapasztalat
 
-- Egyetemi oktatói tevékenység: SZTE (2006-2017), KRE (2017-)
+- Egyetemi oktatói tevékenység: SZTE (2006-2017), KRE (2017-) egyetemi adjunktus
 - Szegedi Tudományegyetem, Budapest Média Intézet - óraadó (2007 - 2010)
 - Imaginációs-meditációs saját élmény (220 óra, kiképző: Dr. Budavári Ágota)
 - Szakmai gyakorlat, Szent János Kórház (Budapest) Pszichiátria
@@ -66,4 +66,3 @@ draft: false
 - A 2009., 2011. 2013. 2015. és 2017. évi OTDK-ra a Pro Scientia Aranyérmesek Társaságának delegáltja a szakmai bizottságokba
 - Pszichológia tagozati koordinátor (OTDK, 2017)
 - A Pro Scientia Aranyérmesek Társaságának konferenciájának főszervezője (Szeged, 2012. november)
-- Magyar Pszichológiai Társaság (2005 - )
