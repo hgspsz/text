@@ -10,6 +10,8 @@ Gyermekkorom óta versenyszerűen vívok (párbajtőrözök). Voltam felnőtt ma
 Pszichológus diplomámat a Szegedi Tudományegyetemen szereztem (2006), sport szakpszichológusként pedig a Semmelweis Egyetem Testnevelési és Sporttudományi Karán végeztem (2009). Pszichológiából doktori (PhD) fokozattal rendelkezem, melyet az ELTÉn kaptam 2014-ben. 10 évig tanítottam az SZTE-n pszichológusokat, jelenleg ugyanezt teszem a Károlin egyetemi adjunktusként.
 2007 óta dolgozom sportpszichológusként Budapesten és Szegeden egyaránt, bár utóbbi helyen már ritkábban. Számos sportág képviselőivel dolgoztam már, illetve teszem ezt jelenleg is kick-boxtól a sakkon át, az úszáson keresztül a ketrecharcig, azonban legtöbbet vívókkal és kajak/kenusokkal foglalkozom. Előfordul, hogy komplett csapatnak segítek. Alapvetően kétféle helyzetben kérik a segítségem a sportolók/szülők/csapatok. Vagy egy bizonyos sportpszichológiai problémát szeretnének megoldani, vagy általánosságban kérik a segítségem a jobb teljesítmény eléréséhez. 
 
+Budapesten a Lehel térnél, Szegeden a Lechner tér mellett dolgozom. 15ezer Ftos az óradíjam (természetesen számlaképes vagyok).
+
 Egyik kedvenc írásom az élet értelméről az Olvasnivalók között szerepel, míg a másikat idemásolom - értelmezését a kitartó olvasóra bízom. :) Fredrik Pohl Átjáró című könyvének (fordította: Nagy Sándor) záró sorai.
 
 – Micsoda? – Gondolataim ezer fényévnyire járnak. 
