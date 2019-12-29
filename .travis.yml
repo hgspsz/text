@@ -19,4 +19,8 @@ script:
 - rm -r -f tmp
 - hugo
 deploy:
-- cd public && lftp -e "cd public_html; mirror -R .; ls; exit" -u $FTP_USER,$FTP_PASSWORD sftp://plaveoo.hu
+- provider: script
+  script: cd public && lftp -e "cd public_html; mirror -R .; ls; exit" -u $FTP_USER,$FTP_PASSWORD sftp://plaveoo.hu
+  skip_cleanup: true
+  on:
+    branch: master
