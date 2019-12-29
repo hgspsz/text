@@ -11,7 +11,7 @@ env:
   - secure: fIWOArObSF3j+I04uXtW7R9Bc2AraqxPp6o6zt+KSzK08K/mKejFboLZW9ls13DOOqMijCvE82c/grfrLFnMxGVzD4XSW1QP4fN6mOmqDUyCnWQ5DPLLozNnR7th1dxVNIl2IpaGX+++uON/Dz0kSYh2SZ4N0HHFJ/Ilo3UmnZDup2t9PKlXAFxM/dEe6+vCwPktbyBxsRtU/ZZWlasy9znd0+CtjiJp58NBNXbia04WxgIRME7yXmNyk2b9U58fu5iomcqckABU1uv0Z9d/wWf2PZbvX/fGm5NUXD1G4ba8RgIISqch/mGQizBMnD/EDkC3WRP1L5jDkEfwERXY9eDynW4BZJi1KWh1omAYqMCWLky2uK3xCTqpNjau+5v2//5RAtc5FYn1uYlV4ABfeR2le0sOcxv9TDKibvrTvq2WD+Mt9ySHAuoPjPNdogRIDMTzCk01ObHU9L9kMvz499opJzDcL2iEti3kdvBAzyuNKOARMa+fUri8WC+YyXJKmsVlkFEF2UuPJ+TtVtxq5XaE+ql1qalGfSFGtlMwZPXEg8XIMKmoiugUzT29cVyUKEcox92LSpsBHtbCn5aDG+6RRfaWf6rujykynIwRW/8XKn6NtTyfVQNDe6HZxP6Klprlp61J7pZ2XP8Sq/T9jR5eEQCjRGtIrtFA3IJglgE=
 install:
 - rm -rf public || exit 0
-- go get -v https://github.com/gohugoio/hugo
+- go get -v github.com/gohugoio/hugo
 script:
 - git clone https://github.com/hgspsz/theme.git tmp
 - cp -r tmp/* ./
