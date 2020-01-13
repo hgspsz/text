@@ -3,6 +3,7 @@ addons:
     packages:
     - lftp
     - python-pygments
+  ssh_known_hosts: hosting.pctsupport.hu
 language: go
 env:
   global:
@@ -19,4 +20,4 @@ script:
 - rm -r -f tmp
 - hugo
 after_success: 
-- cd public && lftp -e "cd public_html; mirror -R .; ls; exit" -u $FTP_USER,$FTP_PASSWORD ftp://hosting.pctsupport.hu
+- cd public && lftp -e "cd public_html; mirror -R .; ls; exit" -u $FTP_USER,$FTP_PASSWORD sftp://hosting.pctsupport.hu
