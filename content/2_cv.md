@@ -8,7 +8,7 @@ draft: false
 
 ### Munkahelyek, tisztségek
 
-- Sportpszichológusként 2009 óta dolgozom
+- Sportpszichológus 2009 óta
 - [KRE-BTK, Pszichológia Intézet](http://www.kre.hu/btk/index.php/2015-10-20-11-09-16/2015-10-20-11-15-36/pszichologiai-intezet.html) - egyetemi adjunktus 
 - Magyar Vívó Szövetség - sportpszichológus
 - Szegedi Vizisport Egyesület - sportpszichológus
