@@ -27,8 +27,6 @@ draft: false
 
 [Csak a Mindset előadás!(2017)](http://mindset.co.hu/ahol-a-sport-es-a-szocialpszichologia-talalkozik-dr-harsanyi-gergo-eloadasa-a-szegedi-pszicho-kavehazban/)
 
-[Csak az OTDT! Lelkizés a friss Pro Scientia Aranyérmesek éremátadóján az MTÁ-n - négy rövid beszéd (2011, 2013, 2015, 2017)](https://drive.google.com/drive/u/0/folders/1sb28dpEtOXZNOG9zyiaG6tcB3PuX2PK7?ogsrc=32)
-
 [Csak a Szertár! (2017, interjú)](https://soundcloud.com/szertar/xciv-sakktol-a-ketrecharcig-sportpszichologia-a-gyakorlatban)
 
 [Csak a Zsóka! (2019, riportműsor Gaál Zsókával az M2-őn, amiben feltűnök pár mondat erejéig)](https://petofilive.hu/video/2019/09/05/gaal-zsoka-tinisakkbajnok/?fbclid=IwAR3Qk6hKoKkz7mjwEqoVOoDzWZLQpOPhV13P08RWHrDtyXJMwrbgJbVfuiw#)
