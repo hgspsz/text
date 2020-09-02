@@ -18,11 +18,8 @@ ___
   #### Néhány referencia:
   - AVA Békéscsaba (vívóklub)
   - Badar Gergő (triatlon)
-  - Barzó Lilla (tenisz)
-  - Csató István (súlyemelés)
   - Dékány Kinga (vívás)
   - Gaál Zsóka (sakk)
-  - Karnok Marcell (kajak)
   - Kispesti Női Kézilabda Klub (kézilabda)
   - Koch Máté (vívás)
   - Kocsis Ádám (kenu)
@@ -30,14 +27,11 @@ ___
   - Magyar Sakk Szövetség
   - Magyar Vívó Szövetség
   - Major Endre (paralimpikon, asztalitenisz)
-  - Matyasovszki Dániel (evezés)
-  - Nagy Bianka (kenu)
+  - Női tőr válogatott (csapatpszichológusi szinten)
   - Olasz Anna (olimpikon, hosszútávúszás)
   - Orosházi Női Kézilabda Club
   - Pápai Balázs (tollaslabda)
   - Papp Petra (sakk) 
-  - Pozsár Bence (evezés)
-  - Sárközi MMA team (ketrecharc)
   - Szegedi Vizisport Egyesület (kajak/kenu)
   - SZEOL (labdarúgás)
 
