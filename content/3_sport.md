@@ -22,7 +22,7 @@ ___
   - Gaál Zsóka (sakk)
   - Kispesti Női Kézilabda Klub (kézilabda)
   - Koch Máté (vívás)
-  - Kocsis Ádám (kenu)
+  - Kocsis Ádám (kenu) 
   - Magyar Evezős Szövetség 
   - Magyar Sakk Szövetség
   - Magyar Vívó Szövetség
