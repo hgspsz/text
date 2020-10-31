@@ -36,7 +36,6 @@ jobs:
       - uses: jakejarvis/hugo-build-action@master
         with:
           args: --source target
-      - name: FTP-Deploy-Action
       - uses: SamKirkland/FTP-Deploy-Action@3.1.1
         with:
           local-dir: ./target/public
