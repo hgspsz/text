@@ -25,4 +25,6 @@ jobs:
         with:
           repository: hgspsz/theme
       - uses: jakejarvis/hugo-build-action@master
+      - name: Install tree
+        run: sudo apt-get install tree
       - run: tree .
