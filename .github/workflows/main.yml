@@ -29,10 +29,10 @@ jobs:
           path: 'theme-repo'
       - run: mkdir target
       - run: cp -r ./text-repo ./target
-      - run: cp -r ./theme-repo ./target     
+      - run: cp -r ./theme-repo ./target
+      - name: Install tree
+        run: sudo apt-get install tree
+      - run: tree .     
       - uses: jakejarvis/hugo-build-action@master
         with:
           args: --source target
-      - name: Install tree
-        run: sudo apt-get install tree
-      - run: tree .
