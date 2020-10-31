@@ -44,3 +44,4 @@ jobs:
           ftp-server: ftpes://harsanyisportpszichologus.hu:21/public_html
           ftp-username: ${{ secrets.FTP_USER }}
           ftp-password: ${{ secrets.FTP_PASSWORD }}
+          git-ftp-args: --insecure  
