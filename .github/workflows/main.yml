@@ -28,7 +28,6 @@ jobs:
           repository: hgspsz/theme
           path: 'theme-repo'
       - run: mkdir target
-      - run: git init 
       - run: git init target
       - run: cp -r ./text-repo/* ./target
       - run: cp -r ./theme-repo/* ./target
