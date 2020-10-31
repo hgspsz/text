@@ -21,10 +21,18 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+        with: 
+          path: 'text-repo'
       - uses: actions/checkout@v2
         with:
           repository: hgspsz/theme
+          path: 'theme-repo'
+      - run: mkdir target
+      - run: cp -r ./text-repo ./target
+      - run: cp -r ./theme-repo ./target     
       - uses: jakejarvis/hugo-build-action@master
+        with:
+          args: --source target
       - name: Install tree
         run: sudo apt-get install tree
       - run: tree .
