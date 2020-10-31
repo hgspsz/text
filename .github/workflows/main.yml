@@ -36,3 +36,10 @@ jobs:
       - uses: jakejarvis/hugo-build-action@master
         with:
           args: --source target
+      - name: FTP-Deploy-Action
+      - uses: SamKirkland/FTP-Deploy-Action@3.1.1
+        with:
+          local-dir: ./target/public
+          ftp-server: sftp://harsanyisportpszichologus.hu/public_html
+          ftp-username: ${{ secrets.FTP_USER }}
+          ftp-password: ${{ secrets.FTP_PASSWORD }}
