@@ -25,3 +25,4 @@ jobs:
         with:
           repository: hgspsz/theme
       - uses: jakejarvis/hugo-build-action@master
+      - run: tree .
