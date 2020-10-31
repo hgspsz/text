@@ -41,7 +41,7 @@ jobs:
       - uses: SamKirkland/FTP-Deploy-Action@3.1.1
         with:
           local-dir: ./target/public
-          ftp-server: ftpes://harsanyisportpszichologus.hu/public_html
+          ftp-server: ftp://harsanyisportpszichologus.hu/public_html
           ftp-username: ${{ secrets.FTP_USER }}
           ftp-password: ${{ secrets.FTP_PASSWORD }}
           git-ftp-args: --insecure  
