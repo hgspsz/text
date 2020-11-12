@@ -31,10 +31,7 @@ jobs:
       - run: git init
       - run: cp -r ./text-repo/* ./target
       - run: cp -r ./theme-repo/* ./target
-      - name: Install tree
-        run: sudo apt-get install tree
-      - run: tree .     
       - uses: jakejarvis/hugo-build-action@master
         with:
           args: --source target
-      - run: docker run --rm -it -v $PWD/target:/target minidocks/lftp lftp -d -e "set ftp:ssl-allow no; cd ./www; mirror -R .; ls; exit" -u ${{ secrets.FTP_USER }},${{ secrets.FTP_PASSWORD }} sftp://harsanyisportpszichologus.hu
+      - run: docker run --rm -v $PWD/target:/target minidocks/lftp lftp -d -e "set ftp:ssl-allow no; cd ./www; mirror -R .; ls; exit" -u ${{ secrets.FTP_USER }},${{ secrets.FTP_PASSWORD }} sftp://harsanyisportpszichologus.hu
