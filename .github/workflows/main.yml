@@ -37,11 +37,4 @@ jobs:
       - uses: jakejarvis/hugo-build-action@master
         with:
           args: --source target
-      
-      - uses: SamKirkland/FTP-Deploy-Action@3.1.1
-        with:
-          local-dir: ./target/public
-          ftp-server: ftp://harsanyisportpszichologus.hu/public_html
-          ftp-username: ${{ secrets.FTP_USER }}
-          ftp-password: ${{ secrets.FTP_PASSWORD }}
-          git-ftp-args: --insecure  
+      - run: docker run --rm -it -v $PWD/target:/target minidocks/lftp lftp -d -e "set ftp:ssl-allow no; cd ./www; mirror -R .; ls; exit" -u ${{ secrets.FTP_USER }},${{ secrets.FTP_PASSWORD }} sftp://harsanyisportpszichologus.hu
