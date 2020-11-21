@@ -34,4 +34,4 @@ jobs:
       - uses: jakejarvis/hugo-build-action@master
         with:
           args: --source target
-      - run: docker run --rm -v $PWD/target:/target minidocks/lftp lftp -d -e "set ftp:ssl-allow no; cd ./www; mirror -R /target/public .; ls; exit" -u ${{ secrets.FTP_USER }},${{ secrets.FTP_PASSWORD }} ftp://harsanyisportpszichologus.hu
+      - run: docker run --rm -v $PWD/target:/target minidocks/lftp lftp -e "set ftp:ssl-allow no; cd ./www; mirror -R /target/public .; ls; exit" -u ${{ secrets.FTP_USER }},${{ secrets.FTP_PASSWORD }} ftp://harsanyisportpszichologus.hu
