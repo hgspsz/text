@@ -20,5 +20,5 @@ script:
 - rm -r -f tmp
 - hugo
 after_success: 
-- cd public && lftp -d -e "set ftp:ssl-allow no; cd ./www; mirror -R .; ls; exit" -u $FTP_USER,$FTP_PASSWORD sftp://harsanyisportpszichologus.hu
+- cd public && lftp -d -e "set ftp:ssl-allow no; cd ./www; mirror -R .; ls; exit" -u $FTP_USER,$FTP_PASSWORD ftp://harsanyisportpszichologus.hu
 
