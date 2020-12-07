@@ -21,6 +21,12 @@ draft: false
 
 [Csak a Hatosfal! (2019)](https://szoged.hatosfal.hu/bejegyzes/917-valaszokra-varva?fbclid=IwAR3rrejHSqn1X1d4egY6Nb0IYooROY7x0EMWauI9Qb2mQwui3JDDkfgiUCc)
 
+[Csak a karantén sportpszichológia! I. (interjú az Délmagyaron, 2020)](https://www.delmagyar.hu/kozelet/helyi-kozelet/a-karantenba-zart-sportoloknal-a-leallas-lelkileg-megterhelo-lehet-6407193/)
+
+[Csak a karantén sportpszichológia! II. (interjú az Indexen, 2020)](https://index.hu/sport/2020/04/02/tokioi_olimpia_2020_halasztas_sportpszichologia/)
+
+[Csak a karantén sportpszichológia! III. (interjú a VEOL-on, 2020)](https://www.veol.hu/sport/helyi-sport/hogyan-erintik-a-sportolokat-a-koronavirus-jarvany-kovetkezmenyei-3693465/)
+
 [Csak a Károli!](http://www.kre.hu/btk/index.php/2015-10-20-11-09-16/2015-10-20-11-15-36/pszichologiai-intezet.html)
 
 [Csak a kerekasztal! (2016)](http://mindset.co.hu/nehany-jatekos-titokban-jar-pszichologushoz-kerekasztal-a-xv-forum-humanumon/)
