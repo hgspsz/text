@@ -13,6 +13,8 @@ draft: false
 
 [Csak a Cartman! (2010)](http://www.delmagyar.hu/szeged_hirek/cartman_olyan_mint_darth_vader/2184003/)
 
+[Csak a Fekete Hattyú! filmelemzés egy balettművésszel (2018)](https://pszichoforyou.hu/fekete-hattyu-cimu-film-pszichologiaja/)
+
 [Csak a Galaxis kalauz! (2019, interjú a Klubrádióban)](https://www.klubradio.hu/archivum/galaxis-kalauz-2019-oktober-09-szerda-1500-6339)
 
 [Csak a háló! (2017)](http://index.hu/sport/2017/fina_vizesvb_budapest/2017/07/16/olasz_anna_nyilatkozat_somenek_onon_10_km_nyiltvizi_uszas/)
