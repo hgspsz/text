@@ -7,7 +7,7 @@ draft: false
 
 [Csak az ABBA! (2017, interjú a Szegedmában)](http://szegedma.hu/hir/szeged/2017/05/abba-a-labdarugasban-is.html)
 
-[Csak az Aréna! (2018)](https://www.facebook.com/vtvszegedArena/videos/2103896503155603/)
+[Csak az Aréna! (2018)](https://www.facebook.com/vtvszegedArena/videos/2103896503155603/) 
 
 [Csak a Budapesti Arcok! (2015, interjú a Juventus rádióban)](https://drive.google.com/drive/folders/1wncsPZ2WoJWv0PzQKKWkm6uejxqjMzk1)
 
