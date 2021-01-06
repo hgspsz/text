@@ -35,7 +35,7 @@ draft: false
 
 [Csak a Mérő László! (egyik kedvenc írásom az élet értelméről, míg a másik a bemutatkozó szövegem végén van)](http://magyarnarancs.hu/egotripp/teljesitmeny-75791)
 
-[Csak a Mindset előadás! (2017)](http://mindset.co.hu/ahol-a-sport-es-a-szocialpszichologia-talalkozik-dr-harsanyi-gergo-eloadasa-a-szegedi-pszicho-kavehazban/)
+[Csak a szociálpszichológia és előadás! (2017)](https://mindsetpszichologia.hu/ahol-a-sport-es-a-szocialpszichologia-talalkozik-dr-harsanyi-gergo-eloadasa-a-szegedi-pszicho-kavehazban)
 
 [Csak a Sakkmező! (2020, interjú)](https://www.sakkmezo.hu/2020/02/27/vasvilla-es-cukorka-beszelgetes-dr-harsanyi-szabolcs-gergo-sportpszichologussal/?fbclid=IwAR0Jyf9tdljTXu_RQRX3PBvaTMi5L1vGwvEd4FZxepuwQKzPfYrODZPAsJ0)
 
