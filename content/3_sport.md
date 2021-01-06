@@ -1,6 +1,6 @@
 ---
 title: "Sportpszichológia"
-date: 2017-08-09T20:03:04+02:00
+date: 2020-11-21T20:03:04+02:00
 draft: false
 ---
 ___

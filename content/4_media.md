@@ -7,17 +7,25 @@ draft: false
 
 [Csak az ABBA! (2017, interjú a Szegedmában)](http://szegedma.hu/hir/szeged/2017/05/abba-a-labdarugasban-is.html)
 
-[Csak az Aréna! (2018)](https://www.facebook.com/vtvszegedArena/videos/2103896503155603/)
+[Csak az Aréna! (2018)](https://www.facebook.com/vtvszegedArena/videos/2103896503155603/) 
 
 [Csak a Budapesti Arcok! (2015, interjú a Juventus rádióban)](https://drive.google.com/drive/folders/1wncsPZ2WoJWv0PzQKKWkm6uejxqjMzk1)
 
 [Csak a Cartman! (2010)](http://www.delmagyar.hu/szeged_hirek/cartman_olyan_mint_darth_vader/2184003/)
+
+[Csak a Fekete Hattyú! (Filmelemzés egy balettművésszel, 2018)](https://pszichoforyou.hu/fekete-hattyu-cimu-film-pszichologiaja/)
 
 [Csak a Galaxis kalauz! (2019, interjú a Klubrádióban)](https://www.klubradio.hu/archivum/galaxis-kalauz-2019-oktober-09-szerda-1500-6339)
 
 [Csak a háló! (2017)](http://index.hu/sport/2017/fina_vizesvb_budapest/2017/07/16/olasz_anna_nyilatkozat_somenek_onon_10_km_nyiltvizi_uszas/)
 
 [Csak a Hatosfal! (2019)](https://szoged.hatosfal.hu/bejegyzes/917-valaszokra-varva?fbclid=IwAR3rrejHSqn1X1d4egY6Nb0IYooROY7x0EMWauI9Qb2mQwui3JDDkfgiUCc)
+
+[Csak a karantén sportpszichológia! I. (interjú az Délmagyaron, 2020)](https://www.delmagyar.hu/kozelet/helyi-kozelet/a-karantenba-zart-sportoloknal-a-leallas-lelkileg-megterhelo-lehet-6407193/)
+
+[Csak a karantén sportpszichológia! II. (interjú az Indexen, 2020)](https://index.hu/sport/2020/04/02/tokioi_olimpia_2020_halasztas_sportpszichologia/)
+
+[Csak a karantén sportpszichológia! III. (interjú a VEOL-on, 2020)](https://www.veol.hu/sport/helyi-sport/hogyan-erintik-a-sportolokat-a-koronavirus-jarvany-kovetkezmenyei-3693465/)
 
 [Csak a Károli!](http://www.kre.hu/btk/index.php/2015-10-20-11-09-16/2015-10-20-11-15-36/pszichologiai-intezet.html)
 
@@ -27,7 +35,7 @@ draft: false
 
 [Csak a Mérő László! (egyik kedvenc írásom az élet értelméről, míg a másik a bemutatkozó szövegem végén van)](http://magyarnarancs.hu/egotripp/teljesitmeny-75791)
 
-[Csak a Mindset előadás! (2017)](http://mindset.co.hu/ahol-a-sport-es-a-szocialpszichologia-talalkozik-dr-harsanyi-gergo-eloadasa-a-szegedi-pszicho-kavehazban/)
+[Csak a szociálpszichológia és előadás! (2017)](https://mindsetpszichologia.hu/ahol-a-sport-es-a-szocialpszichologia-talalkozik-dr-harsanyi-gergo-eloadasa-a-szegedi-pszicho-kavehazban)
 
 [Csak a Sakkmező! (2020, interjú)](https://www.sakkmezo.hu/2020/02/27/vasvilla-es-cukorka-beszelgetes-dr-harsanyi-szabolcs-gergo-sportpszichologussal/?fbclid=IwAR0Jyf9tdljTXu_RQRX3PBvaTMi5L1vGwvEd4FZxepuwQKzPfYrODZPAsJ0)
 
