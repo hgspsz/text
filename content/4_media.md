@@ -21,7 +21,7 @@ draft: false
 
 [Csak a Hatosfal! (2019)](https://szoged.hatosfal.hu/bejegyzes/917-valaszokra-varva?fbclid=IwAR3rrejHSqn1X1d4egY6Nb0IYooROY7x0EMWauI9Qb2mQwui3JDDkfgiUCc)
 
-[Csak a karantén sportpszichológia! I. (interjú az Délmagyaron, 2020)](https://www.delmagyar.hu/kozelet/helyi-kozelet/a-karantenba-zart-sportoloknal-a-leallas-lelkileg-megterhelo-lehet-6407193/)
+[Csak a karantén sportpszichológia! I. (interjú a Délmagyaron, 2020)](https://www.delmagyar.hu/kozelet/helyi-kozelet/a-karantenba-zart-sportoloknal-a-leallas-lelkileg-megterhelo-lehet-6407193/)
 
 [Csak a karantén sportpszichológia! II. (interjú az Indexen, 2020)](https://index.hu/sport/2020/04/02/tokioi_olimpia_2020_halasztas_sportpszichologia/)
 
@@ -34,6 +34,8 @@ draft: false
 [Csak a kerekasztal! (2017)](http://szegedma.hu/2017/10/a-magabiztossag-es-az-ovatossag-is-lehet-a-siker-kulcsa) 
 
 [Csak a Mérő László! (egyik kedvenc írásom az élet értelméről, míg a másik a bemutatkozó szövegem végén van)](http://magyarnarancs.hu/egotripp/teljesitmeny-75791)
+
+[Csak a Nemzeti Sport! (2021, interjú a norvég kézilabda kapcsán)](https://www.nemzetisport.hu/kezilabda/csak-nyernek-es-nyernek-a-norveg-kezilabdatitok-nyomaban-2805735) 
 
 [Csak a szociálpszichológia és előadás! (2017)](https://mindsetpszichologia.hu/ahol-a-sport-es-a-szocialpszichologia-talalkozik-dr-harsanyi-gergo-eloadasa-a-szegedi-pszicho-kavehazban)
 
