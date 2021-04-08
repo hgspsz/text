@@ -26,21 +26,27 @@ ___
 - Mihalik Árpád, Nagygyörgy Katalin, Fodor Ádám: Eljátszott élet - Az internetes játékfüggőség rizikófaktorainak bemutatása 
   - Házi TDK 2010: III. helyezés
   - OTDK (Pszichológia alszekció - Személyiségpszichológia) 2011: **I. helyezés**
+- Gurka Éva, Horváth Ágoston Ábrahám, Herczeg Zsófia: Mindennapi sztereotípiák megjelenése a gyors döntésekben – Idegen népcsoportokkal kapcsolatos implicit és explicit attitűdök vizsgálata
+  - Házi TDK 2019: OTDK döntőbe jutott
+  - OTDK (Pszichológia alszekció – Szociálpszichológia 1) 2019: **II. helyezés**
 - Lantos Nóra, Ven Nóra: Lezárás iránti igény és a konzervativizmus kapcsolata
   - TDK verseny (Szombathely): előadás
   - OTDK (Pszichológia alszekció – Szociálpszichológia) 2011: **II. helyezés**
 - Csanádi András, Lantos Nóra Anna: Döntéseink nyomában
   - Házi TDK 2008: III. helyezés
-  - OTDK (Pszichológia alszekció – Szociálpszichológia) 2009: **III. helyezés**
+  - OTDK (Pszichológia szekció – Szociálpszichológia) 2009: **III. helyezés**
 - Dér Alexandra: Sportsérülések hátterében álló pszichológiai faktorok vizsgálata kontakt és nem-kontakt sportágakban
   - Házi TDK 2014: Döntőbe jutott
-  - OTDK (Pszichológia alszekció – Alkalmazott pszichológia I. tagozat) 2015: **III. helyezés**
+  - OTDK (Pszichológia szekció – Alkalmazott pszichológia I. tagozat) 2015: **III. helyezés**
 - Nagygyörgy Katalin, Mihalik Árpád, Fodor Ádám: Virtuális világba zárkózott fiatalok. Magyar MMORPG játékosok motivációjának és személyiségvonásainak vizsgálata
   - Házi TDK 2008: Közönségdíj
-  - OTDK (Pszichológia alszekció - Személyiségpszichológia) 2009: **III. helyezés**
+  - OTDK (Pszichológia szekció - Személyiségpszichológia) 2009: **III. helyezés**
 - Szkárosi Niké: A nemi szerepidentifikációból fakadó stressz és a szociokulturális hatások szerepe az izomdiszmorfia kialakulásában
   - Házi TDK 2014: Döntőbe jutott
-  - OTDK (Pszichológia alszekció – Alkalmazott pszichológia II. tagozat) 2015: **III. helyezés**
+  - OTDK (Pszichológia szekció – Alkalmazott pszichológia II. tagozat) 2015: **III. helyezés**
+- Szilágyi Krisztina: Vallás, klímaváltozás és rendszerigazoló ideológiák
+  - Házi TDK 2019: Döntőbe jutott
+  - OTDK (Pszichológia szekció - Szociálpszichológia 2) 2019: **Különdíj**
 - Kintner Máté: Szociometriai Pozíciók és a Személyiség Közötti Összefüggés a Serdülő Vízilabdázó Lányok és Fiúknál
   - Házi TDK 2016: Döntőbe jutott
   - OTDK (Testnevelés és sporttudományi szekció - A testnevelés és sport társadalomtudományi kérdései I.) **Különdíj**
