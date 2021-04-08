@@ -11,6 +11,9 @@ ___
 
 - Nagygyörgy Katalin 
   - **Pro Scientia Aranyérem** (2011)  
+- Hoffmann Tamás, Basa Bence: Alternatív iskolák szociometriai vizsgálata
+  - Házi TDK 2019: OTDK döntőbe jutott
+  - OTDK (Pszichológia alszekció – Pedagógiai pszichológia 2) 2019: **I. helyezés és különdíj** 
 - Gurka Éva: Szerzett arcsérülések szociális kogníciója – A maxillo-faciális sérülésekkel kapcsolatos implicit és explicit attitűdök vizsgálata
   - Házi TDK 2017: OTDK döntőbe jutott
   - OTDK (Pszichológia alszekció – Szociálpszichológia) 2017: **I. helyezés**
