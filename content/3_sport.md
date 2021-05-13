@@ -15,6 +15,8 @@ ___
 - Egyéni sportpszichológiai tanácsadás (2007 óta) 
 - Szent János Kórház Pszichiátria: 2005. június – augusztus (90 óra) és 2006. augusztus – 2007. február (heti 1 óra)
 - Magyar Vívó Szövetség: sportpszichológus (2019. április-)
+- Magyar Úszó Szövetség: sportpszichológus (2021. március-)
+
   #### Néhány referencia:
   - AVA Békéscsaba (vívóklub)
   - Badar Gergő (triatlon)
@@ -25,6 +27,7 @@ ___
   - Kocsis Ádám (kenu) 
   - Magyar Evezős Szövetség 
   - Magyar Sakk Szövetség
+  - Magyar Úszó Szövetség
   - Magyar Vívó Szövetség
   - Major Endre (paralimpikon, asztalitenisz)
   - Női tőr válogatott (csapatpszichológusi szinten)
