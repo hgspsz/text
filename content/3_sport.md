@@ -19,6 +19,7 @@ ___
   #### Néhány referencia:
   - AVA Békéscsaba (vívóklub)
   - Badar Gergő (triatlon)
+  - Dani Gyöngyi (vívás, paralimpikon)
   - Dékány Kinga (vívás)
   - Gaál Zsóka (sakk)
   - Kispesti Női Kézilabda Klub (kézilabda)
