@@ -19,7 +19,7 @@ draft: false
 
 [Csak a Galaxis kalauz! (2019, interjú a Klubrádióban)](https://www.klubradio.hu/archivum/galaxis-kalauz-2019-oktober-09-szerda-1500-6339)
 
-[Csak a gólöröm! (Videóinterjú Faragó Richárddal a Telexen, 2021)](https://www.youtube.com/watch?v=lXy-3-sQeJA)
+[Csak a gólöröm! (Videóinterjú Faragó Richárddal és jómagammal a Telexen, 2021)](https://www.youtube.com/watch?v=lXy-3-sQeJA)
 
 [Csak a háló! (2017)](http://index.hu/sport/2017/fina_vizesvb_budapest/2017/07/16/olasz_anna_nyilatkozat_somenek_onon_10_km_nyiltvizi_uszas/)
 
