@@ -19,6 +19,8 @@ draft: false
 
 [Csak a Galaxis kalauz! (2019, interjú a Klubrádióban)](https://www.klubradio.hu/archivum/galaxis-kalauz-2019-oktober-09-szerda-1500-6339)
 
+[Csak a gólöröm! (Videóinterjú Faragó Richárddal a Telexen, 2021)](https://www.youtube.com/watch?v=lXy-3-sQeJA)
+
 [Csak a háló! (2017)](http://index.hu/sport/2017/fina_vizesvb_budapest/2017/07/16/olasz_anna_nyilatkozat_somenek_onon_10_km_nyiltvizi_uszas/)
 
 [Csak a Hatosfal! (2019)](https://szoged.hatosfal.hu/bejegyzes/917-valaszokra-varva?fbclid=IwAR3rrejHSqn1X1d4egY6Nb0IYooROY7x0EMWauI9Qb2mQwui3JDDkfgiUCc)
@@ -39,12 +41,12 @@ draft: false
 
 [Csak a Nemzeti Sport! (2021, interjú a norvég kézilabda kapcsán)](https://www.nemzetisport.hu/kezilabda/csak-nyernek-es-nyernek-a-norveg-kezilabdatitok-nyomaban-2805735) 
 
-[Csak a szociálpszichológia és előadás! (2017)](https://mindsetpszichologia.hu/ahol-a-sport-es-a-szocialpszichologia-talalkozik-dr-harsanyi-gergo-eloadasa-a-szegedi-pszicho-kavehazban)
+[Csak a szociálpszichológia! (2017, előadás)](https://mindsetpszichologia.hu/ahol-a-sport-es-a-szocialpszichologia-talalkozik-dr-harsanyi-gergo-eloadasa-a-szegedi-pszicho-kavehazban)
 
 [Csak a Sakkmező! (2020, interjú)](https://www.sakkmezo.hu/2020/02/27/vasvilla-es-cukorka-beszelgetes-dr-harsanyi-szabolcs-gergo-sportpszichologussal/?fbclid=IwAR0Jyf9tdljTXu_RQRX3PBvaTMi5L1vGwvEd4FZxepuwQKzPfYrODZPAsJ0)
 
 [Csak a Szertár! (2017, interjú)](https://soundcloud.com/szertar/xciv-sakktol-a-ketrecharcig-sportpszichologia-a-gyakorlatban)
 
-[Csak az Üvöltés! (2019)](https://mindsetpszichologia.hu/2019/08/31/olimpikonok-a-paston-elmenybeszamolonk-a-fie-vivo-vilagbajnoksagrol/?fbclid=IwAR1qdT8CRwnAY8AYgwaxZP3Gy54hNZhzZR8ur9JZTgutdTz8p92ihr7xNIM)
+[Csak az üvöltés! (2019)](https://mindsetpszichologia.hu/2019/08/31/olimpikonok-a-paston-elmenybeszamolonk-a-fie-vivo-vilagbajnoksagrol/?fbclid=IwAR1qdT8CRwnAY8AYgwaxZP3Gy54hNZhzZR8ur9JZTgutdTz8p92ihr7xNIM)
 
 [Csak a Zsóka! (2019, riportműsor Gaál Zsókával az M2-őn, amiben feltűnök pár mondat erejéig)](https://petofilive.hu/video/2019/09/05/gaal-zsoka-tinisakkbajnok/?fbclid=IwAR3Qk6hKoKkz7mjwEqoVOoDzWZLQpOPhV13P08RWHrDtyXJMwrbgJbVfuiw#)
