@@ -29,4 +29,3 @@ Ismét hosszú szünet, aztán Sigfrid megszólal:
 Újabb szünet következik. Furcsa érzésem támad. Sigfrid szünetjeinek rendszerint okuk szokott lenni. Vagy az, hogy időt adjon nekem valaminek a belátására, vagy pedig az, hogy neki legyen ideje valami bonyolultabb gondolatmenet kikalkulálására velem kapcsolatban. Ezúttal azt hiszem, hogy egyikről sincs szó. Gondolkodik, de nem rólam. Végül ezt mondja: – Akkor hát most válaszolok a kérdésedre, Bob. 
 – A kérdésemre? Miféle kérdésemre? 
 – Azt kérdezted tőlem: „Ezt nevezed te életnek?” És a válaszom ez: Igen. Pontosan ezt nevezem én életnek. És a szó hipotetikus értelmében nagyon is irigyellek érte.
-Teszt
