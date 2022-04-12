@@ -31,7 +31,7 @@ jobs:
       - run: git init
       - run: cp -r ./text-repo/* ./target
       - run: cp -r ./theme-repo/* ./target
-      - uses: jakejarvis/hugo-build-action@master
+      - uses: jakejarvis/hugo-build-action@v0.85.0
         with:
           args: --source target
       - run: docker run --rm -v $PWD/target:/target minidocks/lftp lftp -e "set ftp:ssl-allow no; cd ./www; mirror -R /target/public .; ls; exit" -u ${{ secrets.FTP_USER }},${{ secrets.FTP_PASSWORD }} ftp://harsanyisportpszichologus.hu
