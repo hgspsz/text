@@ -22,6 +22,7 @@ ___
   - Dani Gyöngyi (vívás, paralimpikon)
   - Dékány Kinga (vívás)
   - Gaál Zsóka (sakk)
+  - Keszthelyi Zsombor (vívás)
   - Kispesti Női Kézilabda Klub (kézilabda)
   - Koch Máté (vívás)
   - Kocsis Ádám (kenu) 
@@ -30,6 +31,7 @@ ___
   - Magyar Úszó Szövetség
   - Magyar Vívó Szövetség
   - Major Endre (paralimpikon, asztalitenisz)
+  - Nagy Bianka (kenu)
   - Női tőr válogatott (csapatpszichológusi szinten)
   - Olasz Anna (olimpikon, hosszútávúszás)
   - Orosházi Női Kézilabda Club
