@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-#### MTMT-ben a legfrissebb: https://vm.mtmt.hu//www/index.php?AuthorID=10029727
+#### MTMT-ben a legfrissebb: https://m2.mtmt.hu/gui2/?type=authors&mode=browse&sel=10029727
 
 2016 utániakat a fenti linken találja. 
 ___
