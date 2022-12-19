@@ -19,9 +19,11 @@ ___
   #### Néhány referencia:
   - AVA Békéscsaba (vívóklub)
   - Badar Gergő (triatlon)
+  - Bánusz Tamás (sakk)
   - Dani Gyöngyi (vívás, paralimpikon)
   - Dékány Kinga (vívás)
   - Gaál Zsóka (sakk)
+  - Gulyás Michelle (öttusa, olimpikon)
   - Keszthelyi Zsombor (vívás)
   - Kispesti Női Kézilabda Klub (kézilabda)
   - Koch Máté (vívás)
@@ -35,6 +37,7 @@ ___
   - Női tőr válogatott (csapatpszichológusi szinten)
   - Olasz Anna (olimpikon, hosszútávúszás)
   - Orosházi Női Kézilabda Club
+  - Pádár Nikolett (úszás)
   - Pápai Balázs (tollaslabda)
   - Papp Petra (sakk) 
   - Szegedi Vizisport Egyesület (kajak/kenu)
