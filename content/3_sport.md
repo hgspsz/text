@@ -13,7 +13,6 @@ ___
 - Autogén Tréning módszerspecifikus képzés (100 óra, kiképzők: Dr. Budavári Ágota, illetve Dr. Szombathelyi Éva) - kiképző
 - Imaginációs-meditációs saját élmény (220 óra)
 - Egyéni sportpszichológiai tanácsadás (2007 óta) 
-- Magyar Vívó Szövetség: sportpszichológus (2019. április-)
 - Magyar Úszó Szövetség: sportpszichológus (2021. március-)
 
   #### Néhány referencia:
