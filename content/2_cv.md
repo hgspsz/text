@@ -8,10 +8,9 @@ draft: false
 
 ### Munkahelyek, tisztségek
 
-- Sportpszichológus 2009 óta
+- Sportpszichológus magánpraxisban 2009 óta
 - [KRE-BTK, Pszichológia Intézet](http://www.kre.hu/btk/index.php/2015-10-20-11-09-16/2015-10-20-11-15-36/pszichologiai-intezet.html) - egyetemi adjunktus 
-- Magyar Vívó Szövetség - sportpszichológus
-- Magyar Úszó Szövetség - sportpszichológus
+- PTE-BTK, Pszichológiai Intézet - óraadó a sport szakpszichológus képzésen
 
 ### Tanulmányok, végzettségek
 
@@ -28,6 +27,7 @@ draft: false
 
 - Egyetemi oktatói tevékenység: SZTE (2006-2017), KRE (2017-) egyetemi adjunktus
 - Szegedi Tudományegyetem, Budapest Média Intézet - óraadó (2007 - 2010)
+- PTE-BTK, Pszichológiai Intézet óraadó (2022-)
 - Imaginációs-meditációs saját élmény (220 óra, kiképző: Dr. Budavári Ágota)
 - Szakmai gyakorlat, Szent János Kórház (Budapest) Pszichiátria
 - Egyéni sportpszichológiai tanácsadás 2007 óta
