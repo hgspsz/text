@@ -5,7 +5,7 @@ draft: false
 ---
 [Csak a 40 legérdekesebb esetem! (előadás, 2019)](https://drive.google.com/drive/folders/119K9BVJhpKxABvSy7WcbV4V5PUyvrMnJ)
 
-[Csak az ABBA! (2017, interjú a Szegedmában)](http://szegedma.hu/hir/szeged/2017/05/abba-a-labdarugasban-is.html)
+[Csak az ABBA! (2017, interjú a Szegedmában)](https://szegedma.hu/sport/2017/05/abba-a-labdarugasban-is)
 
 [Csak az Aréna! (2018)](https://www.facebook.com/vtvszegedArena/videos/2103896503155603/) 
 
@@ -41,11 +41,19 @@ draft: false
 
 [Csak a Nemzeti Sport! (2021, interjú a norvég kézilabda kapcsán)](https://www.nemzetisport.hu/kezilabda/csak-nyernek-es-nyernek-a-norveg-kezilabdatitok-nyomaban-2805735) 
 
+[Csak az online vívó kerekasztal! (2021, facebook videó)](https://www.facebook.com/watch/live/?ref=watch_permalink&v=956750121923701) 
+
+[Csak a Nők Lapja! (2023)](https://www.noklapja.hu/aktualis/2023/10/25/kotelezove-lehet-tenni-a-sikert-sportolok-a-celkeresztben/)
+
+[Csak a Petőfi TV! (élő interjú az M2 Petőfi TV-ben, 2023)](https://www.youtube.com/watch?v=bGva-jhn7zw&ab_channel=M2Pet%C5%91fiTV)
+
 [Csak a szociálpszichológia! (2017, előadás)](https://mindsetpszichologia.hu/ahol-a-sport-es-a-szocialpszichologia-talalkozik-dr-harsanyi-gergo-eloadasa-a-szegedi-pszicho-kavehazban)
 
 [Csak a Sakkmező! (2020, interjú)](https://www.sakkmezo.hu/2020/02/27/vasvilla-es-cukorka-beszelgetes-dr-harsanyi-szabolcs-gergo-sportpszichologussal/?fbclid=IwAR0Jyf9tdljTXu_RQRX3PBvaTMi5L1vGwvEd4FZxepuwQKzPfYrODZPAsJ0)
 
 [Csak a Szertár! (2017, interjú)](https://soundcloud.com/szertar/xciv-sakktol-a-ketrecharcig-sportpszichologia-a-gyakorlatban)
+
+[Csak az Újpest TV! (2021, interjú)](https://www.youtube.com/watch?v=4nb5uWfkcH0&ab_channel=%C3%9ATV)
 
 [Csak az üvöltés! (2019)](https://mindsetpszichologia.hu/2019/08/31/olimpikonok-a-paston-elmenybeszamolonk-a-fie-vivo-vilagbajnoksagrol/?fbclid=IwAR1qdT8CRwnAY8AYgwaxZP3Gy54hNZhzZR8ur9JZTgutdTz8p92ihr7xNIM)
 
