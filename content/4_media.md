@@ -15,6 +15,8 @@ draft: false
 
 [Csak a Covid-olimpia! (2021, interjú a Nemezeti Sportban)](https://www.nemzetisport.hu/tokio-2020/mikent-keszul-sportolo-edzo-pszichologus-a-covid-olimpiara-2820743)
 
+[Csak az "Ez így oké?"! (Beszélgetés Szász Emesével az M2-őn, 2023)](https://www.youtube.com/watch?v=nu7LnL1CY_k)
+
 [Csak a Fekete Hattyú! (Filmelemzés egy balettművésszel, 2018)](https://pszichoforyou.hu/fekete-hattyu-cimu-film-pszichologiaja/)
 
 [Csak a Galaxis kalauz! (2019, interjú a Klubrádióban)](https://www.klubradio.hu/archivum/galaxis-kalauz-2019-oktober-09-szerda-1500-6339)
@@ -36,6 +38,8 @@ draft: false
 [Csak a kerekasztal! (2016)](http://mindset.co.hu/nehany-jatekos-titokban-jar-pszichologushoz-kerekasztal-a-xv-forum-humanumon/)
 
 [Csak a kerekasztal! (2017)](http://szegedma.hu/2017/10/a-magabiztossag-es-az-ovatossag-is-lehet-a-siker-kulcsa) 
+
+[Csak a Krízisek és pofonok! (Interjú, beszélgetés, 2024)](https://www.youtube.com/watch?v=qnt5rItD4mU)  
 
 [Csak a Mérő László! (egyik kedvenc írásom az élet értelméről, míg a másik a bemutatkozó szövegem végén van)](http://magyarnarancs.hu/egotripp/teljesitmeny-75791)
 
