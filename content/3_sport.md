@@ -16,29 +16,29 @@ ___
 - Magyar Úszó Szövetség: sportpszichológus (2021. március-)
 
   #### Néhány referencia:
-  - AVA Békéscsaba (vívóklub)
+  - Arlóy Zsófia (asztalitanisz, paralimpikon)
   - Badar Gergő (triatlon)
-  - Bánusz Tamás (sakk)
+  - Bánusz Tamás (sakk, sakkolimpikon)
   - Dani Gyöngyi (vívás, paralimpikon)
   - Dékány Kinga (vívás)
   - Gaál Zsóka (sakk)
-  - Gulyás Michelle (öttusa, olimpikon)
-  - Keszthelyi Zsombor (vívás)
+  - Gulyás Michelle (öttusa, olimpikon, olimpiai bajnok)
   - Kispesti Női Kézilabda Klub (kézilabda)
-  - Koch Máté (vívás)
+  - Koch Máté (vívás, olimpikon, olimpiai bajnok)
   - Kocsis Ádám (kenu) 
   - Magyar Evezős Szövetség 
   - Magyar Sakk Szövetség
   - Magyar Úszó Szövetség
   - Magyar Vívó Szövetség
-  - Major Endre (paralimpikon, asztalitenisz)
-  - Nagy Bianka (kenu)
-  - Női tőr válogatott (csapatpszichológusi szinten)
-  - Olasz Anna (olimpikon, hosszútávúszás)
+  - Major Endre (asztalitenisz, paralimpiai bronzérmes)
+  - Nagy Bianka (kenu, olimpiai 4. helyzett)
+  - Női tőr válogatott (csapatpszichológusi szinten 2019-2021 között)
+  - Olasz Anna (hosszútávúszás, olimpiai 4. helyzett)
   - Orosházi Női Kézilabda Club
-  - Pádár Nikolett (úszás)
+  - Pádár Nikolett (úszás, olimpiai 6. helyzett)
   - Pápai Balázs (tollaslabda)
-  - Papp Petra (sakk) 
+  - Papp Petra (sakk, sakkolimpikon)
+  - Pásztor Flóra (vívás, olimpiai 8. helyezett) 
   - Szegedi Vizisport Egyesület (kajak/kenu)
   - SZEOL (labdarúgás)
 
