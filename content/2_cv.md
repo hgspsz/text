@@ -25,12 +25,12 @@ draft: false
 
 ### Szakmai tapasztalat
 
-- Egyetemi oktatói tevékenység: SZTE (2006-2017), KRE (2017-) egyetemi adjunktus
+- Egyetemi oktatói tevékenység: SZTE (2006-2017), KRE (2017-) tanszékvezető egyetemi docens
 - Szegedi Tudományegyetem, Budapest Média Intézet - óraadó (2007 - 2010)
 - PTE-BTK, Pszichológiai Intézet óraadó (2022-)
 - Imaginációs-meditációs saját élmény (220 óra, kiképző: Dr. Budavári Ágota)
 - Szakmai gyakorlat, Szent János Kórház (Budapest) Pszichiátria
-- Egyéni sportpszichológiai tanácsadás 2007 óta
+- Egyéni sportpszichológiai tanácsadás 2009 óta
 - [A Pro Scientia Aranyérmesek Társasága (PSAT)](http://www.psat.hu) - elnök (2011-2018)
 - [Országos Tudományos Diákköri Tanács (OTDT)](http://www.otdt.hu) - elnökségi tag (2011-2018)
 
