@@ -47,7 +47,7 @@ ___
 
 ## Sport
 
-- Versenyszerű sportolás (vívás, párbajtőr) több, mint 25 éve
+- Versenyszerű sportolás (vívás, párbajtőr) több, mint 35 éve
 - Korosztályos Magyar Országos Bajnok (férfi párbajtőr Kadet csapat) 1996
 - Egyetemi és Főiskolás Magyar Országos Bajnok (férfi párbajtőr csapat) 1999
 - Felnőtt első osztályú minősítés összesen hét idényben
@@ -61,3 +61,4 @@ ___
   - http://www.nemzetisport.hu/egyeb_egyeni/vivas-a-bvsc-noi-es-a-vasas-ferfi-kardozoi-megvedtek-cimuket-2456827
 - Legjobb idényvégi világranglista helyezés: 282. 
   - http://fie.org/fencers/Gergo-HARSANYI-4090/ranking
+- Veterán Országos Bajnok (2022 egyéni és csapat, 2025 egyéni) férfi párbajtőr
