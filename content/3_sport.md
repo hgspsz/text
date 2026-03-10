@@ -17,19 +17,21 @@ ___
 
   #### Néhány referencia:
   - Arlóy Zsófia (asztalitanisz, paralimpikon)
-  - Badar Gergő (triatlon)
+  - Badar Gergő (triatlon, az első magyar, aki 8 óra alatt teljesítette a hosszútávot)
   - Bánusz Tamás (sakk, sakkolimpikon)
-  - Dani Gyöngyi (vívás, paralimpikon)
+  - Dani Gyöngyi (vívás, paralimpikon, sokszoros paralimpiai érmes)
   - Dékány Kinga (vívás)
   - Gaál Zsóka (sakk)
   - Gulyás Michelle (öttusa, olimpikon, olimpiai bajnok)
   - Kispesti Női Kézilabda Klub (kézilabda)
   - Koch Máté (vívás, olimpikon, olimpiai bajnok)
   - Kocsis Ádám (kenu) 
-  - Magyar Evezős Szövetség 
+  - Magyar Evezős Szövetség
+  - Magyar Jégkorong Szövetség
   - Magyar Sakk Szövetség
   - Magyar Úszó Szövetség
   - Magyar Vívó Szövetség
+  - Mandel Kata (snowboard, téli olimpikon)
   - Major Endre (asztalitenisz, paralimpiai bronzérmes)
   - Nagy Bianka (kenu, olimpiai 4. helyzett)
   - Női tőr válogatott (csapatpszichológusi szinten 2019-2021 között)
@@ -62,3 +64,4 @@ ___
 - Legjobb idényvégi világranglista helyezés: 282. 
   - http://fie.org/fencers/Gergo-HARSANYI-4090/ranking
 - Veterán Országos Bajnok (2022 egyéni és csapat, 2025 egyéni) férfi párbajtőr
+
