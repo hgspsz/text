@@ -9,6 +9,7 @@ draft: false
 ### Munkahelyek, tisztségek
 
 - Sportpszichológus magánpraxisban 2009 óta
+- Magyar Jégkorong Szövetség, a felnőtt válogatott csapat sportpszichológusa (2025-)
 - [KRE-BTK, Pszichológia Intézet](http://www.kre.hu/btk/index.php/2015-10-20-11-09-16/2015-10-20-11-15-36/pszichologiai-intezet.html) - tanszékvezető egyetemi docens 
 - PTE-BTK, Pszichológiai Intézet - óraadó a sport szakpszichológus képzésen
 
