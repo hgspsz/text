@@ -1,5 +1,5 @@
 ---
-title: "Vezetett szakdolgozatok"
+title: "Mérföldkövek - szakmai szereplések"
 date: 2017-08-06T20:03:04+02:00
 draft: false
 ---
