@@ -8,7 +8,7 @@ ___
 
 
 
-## SZTE-BTK, Pszichológiai Intézetében (zárójelben a sikeres megvédésének éve)
+## Főbb események, melyekre büszke vagyok (fokozatosan feltöltve)
 
 ### 5 éves osztatlan, vagy mesterképzésben végzettek:
 - Gedő László (2009): Ejtőernyősök és küzdősportolók összehasonlító vizsgálata, személyiségjellemzők, szenzoros ingerkeresés, flow-élmény, valamint megküzdési mechanizmusok vonakozásában
