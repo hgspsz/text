@@ -36,7 +36,10 @@ ___
 - Az Aréna című műsorban szerepeltem
 ### 2019
 - A Magicom meghívására adtam elő felsővezetőkenk a "Variációk egy témára" keretein belül (Buadpest, Spoon hajó)
-- A Klubrádióban voltam a Galaxis Kalaúz című műsorban.
+- A Klubrádióban voltam a Galaxis Kalaúz című műsorban
+- A Mindset pszichológiában szerepltem
+- A Hatosfal készített velem interjút
+- A KAPSZLI Pszichológiai Napokon adtam elő "!0 legérdekesebb esetem" címmel
 
 ### 2020
 - Kijutott az olimpiára a női tőr válogatott, melynek 2019 februárjától a végül 2021-ben rendezett olimpiáig voltam csapat sportpszichológusa
