@@ -15,7 +15,6 @@ ___
 - Pro Scientia Aranyérmet kaptam
 ### 2006
 - pszichológusként végeztem (SZTE-BTK, Pszichológiai Intézet
-
 ### 2009
 - Sport szakpszichológus lettem, elkezdtem így dolgozni
 ### 2011
@@ -25,9 +24,6 @@ ___
 ### 2015
 - Csapatban magyar bajnoki ezüstérmes lettem a BHSE színeiben
 - A Budapesti Arcok című műsorban szerepeltem (Juventus rádió, Fehér Mariann)
-
-### 2016
-
 ### 2017
 - Először szerepelt egy gondolatom címlapon, köszönöm Anna!- lásd "Csak a háló!" az olvasnivalóknál
 - Az SZTE-ről átmentem a Károlira, ahol azóta is dolgozom
@@ -40,14 +36,11 @@ ___
 - A Mindset pszichológiában szerepltem
 - A Hatosfal készített velem interjút
 - A KAPSZLI Pszichológiai Napokon adtam elő "!0 legérdekesebb esetem" címmel
-
 ### 2020
 - Kijutott az olimpiára a női tőr válogatott, melynek 2019 februárjától a végül 2021-ben rendezett olimpiáig voltam csapat sportpszichológusa
 - A Sakkmező készített velem interjút
-
 ### 2021
--
-- Megjelent két interjú velem a Nemzetisporton
+- Megjelent két interjú velem a Nemzetisportban
 - Az Újpest TV-ben szerepeltem
 - Vívó sportpszichológia kerekasztalt moderáltam az online Kapszli részeként (elérhető a FB-on)
 - A Telexnek adtam interjút a szürke zónáról
