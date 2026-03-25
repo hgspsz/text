@@ -28,7 +28,7 @@ ___
 ### 2016
 
 ### 2017
-- [Először szerepelt egy gondolatom címlapon, köszönöm Anna! :)(http://index.hu/sport/2017/fina_vizesvb_budapest/2017/07/16/olasz_anna_nyilatkozat_somenek_onon_10_km_nyiltvizi_uszas/)
+- [Először szerepelt egy gondolatom címlapon, köszönöm Anna![Csak a háló! (2017)](http://index.hu/sport/2017/fina_vizesvb_budapest/2017/07/16/olasz_anna_nyilatkozat_somenek_onon_10_km_nyiltvizi_uszas/)
 - Az SZTE-ről átmentem a Károlira
 - Mestertanár lettem
 ### 2022
