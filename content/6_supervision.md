@@ -41,7 +41,7 @@ ___
 - Megjelent két interjú velem a Nemzetisporton
 - Az Újpest TV-ben szerepeltem
 ### 2022
-- Elkezdtem tanítani óraadóként a Pécsi Tudományegyetem sportpszichológus képzésén (én tartottam a teljesen első órát
+- Elkezdtem tanítani óraadóként a Pécsi Tudományegyetem sportpszichológus képzésén (én tartottam a teljesen első órát)
 ### 2023
 - Koch Máté, akivel kadett kora óta dolgozunk együtt világbajnok lett abban a számban, ami én is űzök (férfi párbajtőr)
 - Az M2 Petőfi TV-ben élőben szerepeltem és említettem Chuck Norrist
@@ -53,7 +53,13 @@ ___
 - Tanszékvezető egyetemi docens lettem
 - Bőhm Kornél Krízisek és pofonok című műsorában szerepeltem (a Spotify-on is fent van)
 - A KPMG összes alkalmazottjának tartottam előadást angolul (Groupama aréna)
+- Előadtam az Évértékelő Sportvezezetői találkozón a hazai sportvezetőknek
+- Előadtam a Forum Humanumon (Szeged)
+- A Károli magazinban készült velem egy interjú
+- A 45. sakkolimpia előtt mindhárom női magyar csapatnak sportpszichológia tréninget tartottam
+- A "Sportpszichológia - útmutató a kiemelkedő teljesítményhez" című könyv lektora lehettem 
 ### 2025
+- Másodszor lettem egyéni magyar bajnok (veterán férfi párbajtőr)
 - 5. helyezett lettem a veterán vívó európa bajnokságon (Plovdiv)
 - Magyar Snowboard Szövetség meghívására a Sport Házában adtam elő
 - Az OTDT online arcképcsarnokába kerültem be
